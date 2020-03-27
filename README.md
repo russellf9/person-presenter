@@ -1,4 +1,16 @@
-# PersonPresenterApp
+# Person Presenter App
+
+## Motivation
+
+I've created this app for the following reasons:
+1. Do some Angular so I can diversify my skills
+2. See how different the latest Angular is to React and the old AngualrJS
+3. See how working with Angular is really like!
+4. See how quickly I can get an effective app up and running
+5. See how difficult it would be to add Typescript to the project
+
+
+-----
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
