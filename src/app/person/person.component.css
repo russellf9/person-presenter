@@ -1,0 +1,38 @@
+Section {
+    border: 1px solid #333333;
+    width: 350px;
+    border-radius: 5px;
+}
+.flex-container {
+   
+    display: flex;
+    flex-flow: column;
+    height: 52px;
+}
+
+.p-content {
+    background-color: #DDDDDD;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    flex: 1;
+}
+
+
+.name {
+    font-weight: 600;
+    
+}
+
+p {
+    font-family: inconsolata;
+    font-size: 20px;
+    line-height: 1em;
+}
+
+span {
+    display: inline-block;
+}
+
+span::first-letter {
+    text-transform: uppercase;
+}
