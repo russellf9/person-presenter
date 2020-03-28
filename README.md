@@ -10,6 +10,19 @@ I've created this app for the following reasons:
 5. See how difficult it would be to add Typescript to the project
 
 
+## Features / Systems to add
+[ ] Typescript
+[ ] Unit testing
+[ ] Routes
+[ ] Snapshot tests
+[ ] SASS
+[ ] Mobile View
+
+
+## Trello
+I'm using a Trello board @ [Person Presenter](https://trello.com/b/1tdKl3gw/person-presenter)
+
+
 -----
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
