@@ -3,6 +3,7 @@ Section {
     width: 350px;
     border-radius: 5px;
 }
+
 .flex-container {
     display: flex;
     flex-flow: column;
@@ -15,7 +16,6 @@ Section {
     border-top-right-radius: 5px;
     flex: 1;
 }
-
 
 .name {
     font-weight: 600;
