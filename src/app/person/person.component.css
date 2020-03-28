@@ -4,7 +4,6 @@ Section {
     border-radius: 5px;
 }
 .flex-container {
-   
     display: flex;
     flex-flow: column;
     height: 52px;
@@ -20,7 +19,6 @@ Section {
 
 .name {
     font-weight: 600;
-    
 }
 
 p {
