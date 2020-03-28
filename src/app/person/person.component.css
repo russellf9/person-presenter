@@ -2,6 +2,7 @@ Section {
     border: 1px solid #333333;
     width: 350px;
     border-radius: 5px;
+    margin-bottom: 15px;
 }
 
 .flex-container {
