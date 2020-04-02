@@ -3,62 +3,6 @@ export const people = [
       'gender': 'male',
       'name': {
         'title': 'Mr',
-        'first': 'Byron',
-        'last': 'Lawson'
-      },
-      'location': {
-        'street': {
-          'number': 3444,
-          'name': 'Green Lane'
-        },
-        'city': 'Chester',
-        'state': 'Strathclyde',
-        'country': 'United Kingdom',
-        'postcode': 'C3E 4SX',
-        'coordinates': {
-          'latitude': '47.2085',
-          'longitude': '-64.7273'
-        },
-        'timezone': {
-          'offset': '-10:00',
-          'description': 'Hawaii'
-        }
-      },
-      'email': 'byron.lawson@example.com',
-      'login': {
-        'uuid': '181533d9-b032-4bef-877a-3e70252da1a8',
-        'username': 'heavyostrich279',
-        'password': 'jeepster',
-        'salt': 'RcnjU78F',
-        'md5': 'dfed92f80fa2e6ab6aff19224ad2c278',
-        'sha1': '977ddfd1f0aad3a31b8c84638835f6eb597b8f1b',
-        'sha256': 'e1766dc94eb069d534b464608e4b3df2a5b3d56aafa582f238639ca2fd1fe868'
-      },
-      'dob': {
-        'date': '1995-02-04T13:46:21.046Z',
-        'age': 25
-      },
-      'registered': {
-        'date': '2009-12-24T17:35:36.512Z',
-        'age': 11
-      },
-      'phone': '016977 37216',
-      'cell': '0739-382-941',
-      'id': {
-        'name': 'NINO',
-        'value': 'TP 78 14 96 Y'
-      },
-      'picture': {
-        'large': 'https://randomuser.me/api/portraits/men/5.jpg',
-        'medium': 'https://randomuser.me/api/portraits/med/men/5.jpg',
-        'thumbnail': 'https://randomuser.me/api/portraits/thumb/men/5.jpg'
-      },
-      'nat': 'GB'
-    },
-    {
-      'gender': 'male',
-      'name': {
-        'title': 'Mr',
         'first': 'Tom',
         'last': 'Perkins'
       },
@@ -500,6 +444,62 @@ export const people = [
         'large': 'https://randomuser.me/api/portraits/women/25.jpg',
         'medium': 'https://randomuser.me/api/portraits/med/women/25.jpg',
         'thumbnail': 'https://randomuser.me/api/portraits/thumb/women/25.jpg'
+      },
+      'nat': 'GB'
+    },
+    {
+      'gender': 'male',
+      'name': {
+        'title': 'Mr',
+        'first': 'Byron',
+        'last': 'Lawson'
+      },
+      'location': {
+        'street': {
+          'number': 3444,
+          'name': 'Green Lane'
+        },
+        'city': 'Chester',
+        'state': 'Strathclyde',
+        'country': 'United Kingdom',
+        'postcode': 'C3E 4SX',
+        'coordinates': {
+          'latitude': '47.2085',
+          'longitude': '-64.7273'
+        },
+        'timezone': {
+          'offset': '-10:00',
+          'description': 'Hawaii'
+        }
+      },
+      'email': 'byron.lawson@example.com',
+      'login': {
+        'uuid': '181533d9-b032-4bef-877a-3e70252da1a8',
+        'username': 'heavyostrich279',
+        'password': 'jeepster',
+        'salt': 'RcnjU78F',
+        'md5': 'dfed92f80fa2e6ab6aff19224ad2c278',
+        'sha1': '977ddfd1f0aad3a31b8c84638835f6eb597b8f1b',
+        'sha256': 'e1766dc94eb069d534b464608e4b3df2a5b3d56aafa582f238639ca2fd1fe868'
+      },
+      'dob': {
+        'date': '1995-02-04T13:46:21.046Z',
+        'age': 25
+      },
+      'registered': {
+        'date': '2009-12-24T17:35:36.512Z',
+        'age': 11
+      },
+      'phone': '016977 37216',
+      'cell': '0739-382-941',
+      'id': {
+        'name': 'NINO',
+        'value': 'TP 78 14 96 Y'
+      },
+      'picture': {
+        'large': 'https://randomuser.me/api/portraits/men/5.jpg',
+        'medium': 'https://randomuser.me/api/portraits/med/men/5.jpg',
+        'thumbnail': 'https://randomuser.me/api/portraits/thumb/men/5.jpg'
       },
       'nat': 'GB'
     },
