@@ -1,0 +1,54 @@
+Section {
+    border: 1px solid #333333;
+    width: 450px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: column;
+}
+
+.container {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+
+.flex-container-row {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+
+.p-content {
+    background-color: #DDDDDD;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    flex: 1;
+}
+
+p {
+    font-family: inconsolata;
+    font-size: 20px;
+    line-height: 1em;
+}
+
+.name {
+    font-weight: 600;
+}
+
+.content {
+    margin: 5px 15px;
+}
+
+.content
+    h2 {
+        font-family: rubik;
+        font-size: 30px;
+}
+
+.img-circular{
+    clip-path: circle(60px at center);
+}

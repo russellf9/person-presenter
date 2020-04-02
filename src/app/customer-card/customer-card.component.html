@@ -1,0 +1,23 @@
+<Section>
+    <div class="flex-container">
+      <div class="p-content">
+        <p class="name">
+          <span>{{ person.name.title }}&nbsp;</span>
+          <span>{{ person.name.first }}&nbsp;</span>
+          <span>{{ person.name.last }}</span>
+        </p>
+      </div>
+
+      <div class="content flex-container-row">
+        <div class="img-circular">
+            <img alt="image" [src]=person.picture.large />
+          </div>
+          <div class="container">
+            <h2>{{ person.phone }}</h2>
+          </div>
+      </div>
+      
+    </div>
+</Section>
+    
+
