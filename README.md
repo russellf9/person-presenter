@@ -11,14 +11,15 @@ I've created this app for the following reasons:
 
 
 ## Features / Systems to add
-[ ] Typescript
-[ ] Unit testing
-[ ] Routes
-[ ] Snapshot tests
-[ ] SASS
-[ ] Mobile View
-[ ] Embed fonts
-[ ] Add Search functionality
+- [X] Add routes
+- [ ] Typescript
+- [ ] Unit testing
+- [ ] Routes
+- [ ] Snapshot tests
+- [ ] SASS
+- [ ] Mobile View
+- [ ] Embed fonts
+- [ ] Add Search functionality
 
 
 ## Trello
