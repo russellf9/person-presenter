@@ -1,0 +1,9 @@
+<Section class="container">
+    <div *ngFor="let person of people">
+        <a [routerLink]="['/personDetail/', 1]">Product Detail</a>
+    </div>
+    <!-- <app-person [title]="person.name.first + ' details'" *ngFor="let person of people index as personId"
+        [personId]="personId"
+        [person]="person">
+    </app-person> -->
+</Section>
