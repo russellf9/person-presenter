@@ -1,0 +1,12 @@
+<Section class="container">
+        <div *ngFor='let customer of customers index as customerId'>
+            <div routerLink= "/customer/{{customerId}}">
+                <div>
+                    <app-customer-card [title]="customer.name.first + ' details'"
+                        [personId]="customerId"
+                        [person]="customer">
+                    </app-customer-card>
+                </div>
+            </div>
+        </div>
+</Section>
