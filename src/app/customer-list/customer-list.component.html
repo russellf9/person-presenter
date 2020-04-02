@@ -1,4 +1,8 @@
-<Section class="container">
+<div class="center-container">
+    <div class="search-container center-container">
+        <p>For Search</p>
+    </div>
+    <Section>
         <div *ngFor='let customer of customers index as customerId'>
             <div routerLink= "/customer/{{customerId}}">
                 <div>
@@ -9,4 +13,5 @@
                 </div>
             </div>
         </div>
-</Section>
+    </Section>
+</div>
