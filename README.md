@@ -17,6 +17,8 @@ I've created this app for the following reasons:
 [ ] Snapshot tests
 [ ] SASS
 [ ] Mobile View
+[ ] Embed fonts
+[ ] Add Search functionality
 
 
 ## Trello
