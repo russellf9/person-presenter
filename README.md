@@ -25,7 +25,8 @@ I've created this app for the following reasons:
 ## Trello
 I'm using a Trello board @ [Person Presenter](https://trello.com/b/1tdKl3gw/person-presenter)
 
-
+![image](https://user-images.githubusercontent.com/4911915/78506419-4f14e280-7771-11ea-8d29-89ba60343136.png)
+![image](https://user-images.githubusercontent.com/4911915/78506425-5d62fe80-7771-11ea-9ef6-338b2642c1db.png)
 -----
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
